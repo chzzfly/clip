@@ -6,11 +6,11 @@ BIN_DIR="$SCRIPT_DIR/../bin"
 mkdir -p $BIN_DIR
 if [[ "$OSTYPE" == "linux-gnu"* ]]; then
     cd -- /tmp
-    curl -OL https://github.com/theowenyoung/mdbook-epub/releases/download/v0.4.2103/mdbook-epub-x86_64-unknown-linux-musl.tar.gz
+    curl -OL https://ghproxy.com/https://github.com/theowenyoung/mdbook-epub/releases/download/v0.4.2103/mdbook-epub-x86_64-unknown-linux-musl.tar.gz
     tar -xf /tmp/mdbook-epub-x86_64-unknown-linux-musl.tar.gz -C $BIN_DIR
-    curl -OL https://github.com/rust-lang/mdBook/releases/download/v0.4.22/mdbook-v0.4.22-x86_64-unknown-linux-musl.tar.gz
+    curl -OL https://ghproxy.com/https://github.com/rust-lang/mdBook/releases/download/v0.4.22/mdbook-v0.4.22-x86_64-unknown-linux-musl.tar.gz
     tar -xf /tmp/mdbook-v0.4.22-x86_64-unknown-linux-musl.tar.gz -C $BIN_DIR
-    curl -OL https://github.com/denoland/deno/releases/download/v1.28.3/deno-x86_64-unknown-linux-gnu.zip
+    curl -OL https://ghproxy.com/https://github.com/denoland/deno/releases/download/v1.28.3/deno-x86_64-unknown-linux-gnu.zip
     unzip -o /tmp/deno-x86_64-unknown-linux-gnu.zip -d $BIN_DIR
 
 elif [[ "$OSTYPE" == "darwin"* ]]; then
