@@ -7,4 +7,4 @@
 ## 鸣谢
 
 [theowenyoung](https://github.com/theowenyoung)
-作者已将此项目抽出来做了一个模板，请参见 [说明文档] (https://github.com/theowenyoung/clip-template)进行操作。
+作者已将此项目抽出来做了一个模板，请参见 [说明文档](https://github.com/theowenyoung/clip-template) 进行操作。
