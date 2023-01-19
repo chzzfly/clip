@@ -1,7 +1,7 @@
 ---
-title: Jobs at Logseq
-date: 2023-01-19T14:11:58.000Z
-updated: 2023-01-19T14:11:58.000Z
+title: "Jobs at Logseq"
+date: 2022-01-19T22:23:55+08:00
+updated: 2022-01-19T22:23:55+08:00
 taxonomies:
   tags:
     - Dev
@@ -9,9 +9,8 @@ extra:
   source: https://blog.logseq.com/jobs/
   hostname: blog.logseq.com
   author: Gabriel Horner
-  original_title: Jobs at Logseq
+  original_title: "Jobs at Logseq"
   original_lang: zh
-
 ---
 
 ## Open Positions 开放的职位
