@@ -204,8 +204,8 @@ In some organizations, there is an unhealthy emphasis on process and not much fr
 To avoid this, we work hard to maintain employee excellence and keep our business as simple as possible given our growth ambitions. We want to be a company of self-disciplined, accountable people who discover and fix issues without being told to do so.  
 为了避免这种情况，我们努力保持员工的卓越表现，并在我们的发展雄心下尽可能地保持我们的业务简单。我们希望成为一个由自律的、负责任的人组成的公司，他们发现并解决问题而不需要被告知这样做。
 
-Some examples of our unusual amounts of employee<sup data-immersive-translate-effect="1">1</sup> freedom:  
-我们不寻常的员工 <sup data-immersive-translate-effect="1">1</sup> 自由量的一些例子。
+Some examples of our unusual amounts of employee freedom:  
+我们不寻常的员工自由量的一些例子。
 
 - We share documents internally broadly and systematically, so people can read and often comment on them—including memos on each title’s performance, our strategy decisions and product feature tests. There are some leaks, but the value of highly-informed employees is much greater.  
   我们在内部广泛而系统地分享文件，因此人们可以阅读并经常评论它们--包括关于每个职称的表现、我们的战略决策和产品功能测试的备忘录。虽然有一些泄密事件，但高度知情的员工的价值要大得多。
@@ -336,9 +336,9 @@ As we wrote in the beginning, what is special about Netflix is how much we:
 Finally, Antoine de Saint-Exupéry, the author of _The Little Prince_, shows us the way:  
 最后，《小王子》的作者安托万-德-圣埃克苏佩里为我们指明了方向。
 
-> #### \_If you want to build a ship,
+> #### If you want to build a ship,
 >
-> 如果你想建造一艘船。\_
+> 如果你想建造一艘船。
 >
 > #### _don't drum up the people  不要鼓动民众_
 >
@@ -348,9 +348,9 @@ Finally, Antoine de Saint-Exupéry, the author of _The Little Prince_, shows us 
 >
 > #### _Instead, teach them to yearn  相反，教他们渴望_
 >
-> #### \_for the vast and endless sea.
+> #### for the vast and endless sea.
 >
-> 为广阔无边的大海。\_
+> 为广阔无边的大海。
 
-<sup data-immersive-translate-effect="1">1</sup> Mostly for our salaried employees; there are limitations on this for our hourly employees due to legal requirements.  
-<sup data-immersive-translate-effect="1">1</sup> 主要是针对我们的受薪雇员；由于法律要求，对我们的小时工雇员有限制。
+Mostly for our salaried employees; there are limitations on this for our hourly employees due to legal requirements.  
+ 主要是针对我们的受薪雇员；由于法律要求，对我们的小时工雇员有限制。
