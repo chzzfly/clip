@@ -1,7 +1,7 @@
 ---
 title: Jobs at Logseq
-date: 2023-01-20T08:02:34.000Z
-updated: 2023-01-20T08:02:34.000Z
+date: 2023-01-20T08:31:29.000Z
+updated: 2023-01-20T08:31:29.000Z
 taxonomies:
   tags:
     - Dev
