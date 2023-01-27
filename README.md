@@ -2,7 +2,9 @@
 
 这里会保存我平时阅读文章的 Markdown 全文，如果是英文文章的话，会有中文译文附在每个段落后面。
 
-你可以直接在线阅读所有的文章： [clip.chzzfly.com](https://clip.chzzfly.com)，也可以通过 RSS 订阅最新的动态：[Feed](https://clip.chzzfly.com/feed.xml)，也可以访问我的博客：[blog.chzzfly.com](https://blog.chzzfly.com)。
+你可以直接在线阅读所有的文章： [clip.chzzfly.com](https://clip.chzzfly.com)，也可以通过 RSS 订阅最新的动态：[Feed](https://clip.chzzfly.com/feed.xml)。
+
+也欢迎访问我的博客：[blog.chzzfly.com](https://blog.chzzfly.com)。
 
 ## 鸣谢
 
