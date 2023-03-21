@@ -4,8 +4,6 @@
 
 你可以在线阅读所有的文章，也可以通过 RSS 订阅最新的动态：[Feed](https://clip.chzzfly.com/feed.xml)。
 
-也欢迎访问我的博客：[blog.chzzfly.com](https://blog.chzzfly.com)。
-
 ## 鸣谢
 
 作者已将此项目抽出来做了一个模板，请参见 [说明文档](https://github.com/theowenyoung/clip-template) 进行操作。
